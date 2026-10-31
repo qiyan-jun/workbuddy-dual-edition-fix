@@ -1,6 +1,6 @@
 # workbuddy-dual-edition-fix
 
-WorkBuddy 国内版 / 国际版同机共存时的**更新阻断修复工具包**（也可作为 AI Agent 的 Skill 使用）。
+WorkBuddy 国内版 / 国际版同机共存时的**更新阻断修复工具包 修复不能共存后不能更新问题**（也可作为 AI Agent 的 Skill 使用）。
 
 配套方案：[ZenHG/workbuddy-dual-edition](https://github.com/ZenHG/workbuddy-dual-edition)
 
